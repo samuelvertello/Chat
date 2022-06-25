@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.18",
+    "socket.io": "^4.5.1"
+  },
+  "name": "serverwebsocket",
+  "version": "1.0.0",
+  "main": "webServer.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon webServer.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
